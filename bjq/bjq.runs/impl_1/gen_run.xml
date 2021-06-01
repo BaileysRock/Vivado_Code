@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcsg324-3" LaunchTime="1604801262">
+  <File Type="BITSTR-BMM" Name="bjq_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="bjq_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="bjq_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="bjq_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="bjq.tcl"/>
+  <File Type="OPT-TIMING" Name="bjq_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="bjq_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="bjq_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="bjq_reports.tcl"/>
+  <File Type="OPT-DRC" Name="bjq_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="bjq.hwdef"/>
+  <File Type="PWROPT-DCP" Name="bjq_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="bjq_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="bjq_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="bjq_placed.dcp"/>
+  <File Type="PLACE-IO" Name="bjq_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="bjq_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="bjq_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="bjq_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="bjq_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="bjq_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="bjq_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="bjq_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="bjq_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="bjq.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="bjq_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="bjq_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="bjq_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="bjq.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="bjq_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="bjq_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="bjq_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="bjq_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="bjq_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="bjq_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="bjq_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="bjq.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="bjq_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="bjq_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="bjq_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="bjq_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="bjq_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="bjq_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="bjq_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="bjq_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="bjq_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="bjq_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="bjq_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="bjq_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="bjq_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="bjq_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="bjq_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="bjq_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="bjq_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="bjq_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="bjq_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="bjq_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="bjq_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="bjq.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="bjq_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="bjq.rbt"/>
+  <File Type="BITSTR-NKY" Name="bjq.nky"/>
+  <File Type="PDI-FILE" Name="bjq.pdi"/>
+  <File Type="RCFI_FILE" Name="bjq.rcfi"/>
+  <File Type="CFI_FILE" Name="bjq.cfi"/>
+  <File Type="RNPI_FILE" Name="bjq.rnpi"/>
+  <File Type="NPI_FILE" Name="bjq.npi"/>
+  <File Type="RBD_FILE" Name="bjq.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="bjq.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="bjq.sysdef"/>
+  <File Type="BG-BGN" Name="bjq.bgn"/>
+  <File Type="BG-DRC" Name="bjq.drc"/>
+  <File Type="RDI-RDI" Name="bjq.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/mux_8.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bjq.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="bjq"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/con_bjq.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/con_bjq.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PPRDIR/name.tcl">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+        <Attr Name="UsedInSteps" Val="impl_1;WRITE_BITSTREAM;TCL.PRE"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream" PreStepTclHook="$PPRDIR/name.tcl">
+      <Option Id="BinFile">1</Option>
+    </Step>
+  </Strategy>
+</GenRun>

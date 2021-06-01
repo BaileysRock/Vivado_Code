@@ -1,0 +1,10 @@
+.Xil/
+lock.cache/
+lock.hw/
+lock.ip_user_files/
+lock.runs/
+lock.sim/
+lock.xpr
+vivado*
+
+*.pdf

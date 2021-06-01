@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Nov 28 00:00:56 2020
+# Process ID: 8652
+# Current directory: C:/Users/Aduan/VivadoPro/project_count12
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8320 C:\Users\Aduan\VivadoPro\project_count12\project_count12.xpr
+# Log file: C:/Users/Aduan/VivadoPro/project_count12/vivado.log
+# Journal file: C:/Users/Aduan/VivadoPro/project_count12\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Aduan/VivadoPro/project_count12/project_count12.xpr
+
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top sim_count12 [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top count12 [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+update_compile_order -fileset sources_1

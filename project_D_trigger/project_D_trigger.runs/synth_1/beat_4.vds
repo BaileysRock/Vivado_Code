@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Nov 28 23:46:26 2020
+# Process ID: 21932
+# Current directory: D:/document/Vivado/project_D_trigger/project_D_trigger.runs/synth_1
+# Command line: vivado.exe -log beat_4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source beat_4.tcl
+# Log file: D:/document/Vivado/project_D_trigger/project_D_trigger.runs/synth_1/beat_4.vds
+# Journal file: D:/document/Vivado/project_D_trigger/project_D_trigger.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source beat_4.tcl -notrace
+Command: synth_design -top beat_4 -part xc7a35tcsg324-3
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 23412
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 1036.199 ; gain = 0.000
+---------------------------------------------------------------------------------
+ERROR: [Synth 8-439] module 'beat_4' not found
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 1036.199 ; gain = 0.000
+---------------------------------------------------------------------------------
+synthesize failed
+INFO: [Common 17-83] Releasing license: Synthesis
+5 Infos, 0 Warnings, 0 Critical Warnings and 2 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Vivado Synthesis failed
+INFO: [Common 17-206] Exiting Vivado at Sat Nov 28 23:46:36 2020...

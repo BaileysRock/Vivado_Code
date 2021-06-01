@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Dec 19 09:50:41 2020
+# Process ID: 16748
+# Current directory: D:/document/Vivado/E-Lock/E-Lock.runs/impl_1
+# Command line: vivado.exe -log lock.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lock.tcl -notrace
+# Log file: D:/document/Vivado/E-Lock/E-Lock.runs/impl_1/lock.vdi
+# Journal file: D:/document/Vivado/E-Lock/E-Lock.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source lock.tcl -notrace

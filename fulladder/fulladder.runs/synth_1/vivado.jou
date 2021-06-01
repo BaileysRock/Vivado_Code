@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Nov  6 10:51:35 2020
+# Process ID: 5756
+# Current directory: D:/document/Vivado/fulladder/fulladder.runs/synth_1
+# Command line: vivado.exe -log adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source adder.tcl
+# Log file: D:/document/Vivado/fulladder/fulladder.runs/synth_1/adder.vds
+# Journal file: D:/document/Vivado/fulladder/fulladder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source adder.tcl -notrace

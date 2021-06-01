@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_IP_integrator.ip_user_files/bd/fourbit/ipshared/2836/sources_1/new/D_trigger.v" \
+"../../../../project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_0_0/sim/fourbit_D_trigger_0_0.v" \
+"../../../../project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_1_1/sim/fourbit_D_trigger_1_1.v" \
+"../../../../project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_2_0/sim/fourbit_D_trigger_2_0.v" \
+"../../../../project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_3_0/sim/fourbit_D_trigger_3_0.v" \
+"../../../../project_IP_integrator.ip_user_files/bd/fourbit/sim/fourbit.v" \
+"../../../../project_IP_integrator.srcs/sim_1/new/sim_fourbit.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

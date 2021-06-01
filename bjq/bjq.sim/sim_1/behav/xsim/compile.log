@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/document/Vivado/bjq/bjq.srcs/sources_1/new/bjq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bjq
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/document/Vivado/bjq/bjq.srcs/sources_1/new/mux_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_8
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'Out' is not allowed [D:/document/Vivado/bjq/bjq.srcs/sources_1/new/mux_8.v:37]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/document/Vivado/bjq/bjq.srcs/sim_1/new/sim_bjq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_bjq

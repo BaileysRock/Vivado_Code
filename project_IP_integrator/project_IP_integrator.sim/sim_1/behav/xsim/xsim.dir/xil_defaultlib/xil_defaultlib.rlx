@@ -1,0 +1,12 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_0_0/sim/fourbit_D_trigger_0_0.v,1606380802,verilog,,C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_1_1/sim/fourbit_D_trigger_1_1.v,,fourbit_D_trigger_0_0,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_1_1/sim/fourbit_D_trigger_1_1.v,1606380802,verilog,,C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_2_0/sim/fourbit_D_trigger_2_0.v,,fourbit_D_trigger_1_1,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_2_0/sim/fourbit_D_trigger_2_0.v,1606380802,verilog,,C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_3_0/sim/fourbit_D_trigger_3_0.v,,fourbit_D_trigger_2_0,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_3_0/sim/fourbit_D_trigger_3_0.v,1606380802,verilog,,C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/sim/fourbit.v,,fourbit_D_trigger_3_0,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ipshared/2836/sources_1/new/D_trigger.v,1606380802,verilog,,C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/ip/fourbit_D_trigger_0_0/sim/fourbit_D_trigger_0_0.v,,D_trigger,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.ip_user_files/bd/fourbit/sim/fourbit.v,1606381377,verilog,,C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.srcs/sim_1/new/sim_fourbit.v,,fourbit,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_IP_integrator/project_IP_integrator.srcs/sim_1/new/sim_fourbit.v,1606381703,verilog,,,,sim_fourbit,,,,,,,,

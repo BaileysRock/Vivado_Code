@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.srcs/sim_1/new/sim_divider.v,1606312590,verilog,,,,divider_tb,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.srcs/sim_1/new/sim_led_flow.v,1606314167,verilog,,,,sim_led_flow,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.srcs/sources_1/new/divider.v,1606314895,verilog,,C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.srcs/sources_1/new/led_flow.v,,divider,,,,,,,,
+C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.srcs/sources_1/new/led_flow.v,1606314700,verilog,,C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.srcs/sim_1/new/sim_led_flow.v,,ledwater,,,,,,,,

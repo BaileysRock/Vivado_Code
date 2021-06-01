@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Dec 13 10:45:50 2020
+# Process ID: 13520
+# Current directory: D:/document/Vivado/lock
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10428 D:\document\Vivado\lock\lock.xpr
+# Log file: D:/document/Vivado/lock/vivado.log
+# Journal file: D:/document/Vivado/lock\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/document/Vivado/lock/lock.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2020.1/data/ip'.
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+CRITICAL WARNING: [filemgmt 20-730] Could not find a top module in the fileset sources_1.
+Resolution: With the gui up, review the source files in the Sources window. Use Add Sources to add any needed sources. If the files are disabled, enable them. You can also select the file and choose Set Used In from the pop-up menu. Review if they are being used at the proper points of the flow.
+ERROR: [Common 17-70] Application Exception: Top module not set for fileset 'sources_1'. Please ensure that a valid value is provided for 'top'. The value for 'top' can be set/changed using the 'Top Module Name' field under 'Project Settings', or using the 'set_property top' Tcl command (e.g. set_property top <name> [current_fileset]).
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Dec 13 10:48:44 2020...

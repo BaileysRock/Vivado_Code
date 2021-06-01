@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov 25 23:05:05 2020
+# Process ID: 10472
+# Current directory: C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.runs/impl_1
+# Command line: vivado.exe -log final_led_flow.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source final_led_flow.tcl -notrace
+# Log file: C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.runs/impl_1/final_led_flow.vdi
+# Journal file: C:/Users/Aduan/VivadoPro/project_led_flow/project_led_flow.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source final_led_flow.tcl -notrace

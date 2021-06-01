@@ -1,0 +1,157 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x170711A58C9F6825",
+      "device": "xc7a35tcsg324-3",
+      "name": "fourbit",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2020.1",
+      "validated": "true"
+    },
+    "design_tree": {
+      "D_trigger_0": "",
+      "D_trigger_1": "",
+      "D_trigger_2": "",
+      "D_trigger_3": ""
+    },
+    "ports": {
+      "clk_0": {
+        "type": "clk",
+        "direction": "I",
+        "parameters": {
+          "CLK_DOMAIN": {
+            "value": "fourbit_clk_0",
+            "value_src": "default"
+          },
+          "FREQ_HZ": {
+            "value": "100000000",
+            "value_src": "default"
+          },
+          "FREQ_TOLERANCE_HZ": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "PHASE": {
+            "value": "0.000",
+            "value_src": "default"
+          }
+        }
+      },
+      "rst_n_0": {
+        "type": "rst",
+        "direction": "I",
+        "parameters": {
+          "INSERT_VIP": {
+            "value": "0",
+            "value_src": "default"
+          },
+          "POLARITY": {
+            "value": "ACTIVE_LOW",
+            "value_src": "default"
+          }
+        }
+      },
+      "set_n_0": {
+        "direction": "I",
+        "parameters": {
+          "POLARITY": {
+            "value": "",
+            "value_src": "weak"
+          }
+        }
+      },
+      "q3": {
+        "direction": "O"
+      },
+      "q2": {
+        "direction": "O"
+      },
+      "q1": {
+        "direction": "O"
+      },
+      "q0": {
+        "direction": "O"
+      }
+    },
+    "components": {
+      "D_trigger_0": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "fourbit_D_trigger_0_0"
+      },
+      "D_trigger_1": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "fourbit_D_trigger_1_1"
+      },
+      "D_trigger_2": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "fourbit_D_trigger_2_0"
+      },
+      "D_trigger_3": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "fourbit_D_trigger_3_0"
+      }
+    },
+    "nets": {
+      "clk_0_1": {
+        "ports": [
+          "clk_0",
+          "D_trigger_0/clk",
+          "D_trigger_1/clk",
+          "D_trigger_2/clk",
+          "D_trigger_3/clk"
+        ]
+      },
+      "D_trigger_1_q": {
+        "ports": [
+          "D_trigger_1/q",
+          "D_trigger_2/d",
+          "q1"
+        ]
+      },
+      "D_trigger_2_q": {
+        "ports": [
+          "D_trigger_2/q",
+          "D_trigger_3/d",
+          "q2"
+        ]
+      },
+      "rst_n_0_1": {
+        "ports": [
+          "rst_n_0",
+          "D_trigger_0/rst_n",
+          "D_trigger_1/set_n",
+          "D_trigger_2/set_n",
+          "D_trigger_3/set_n"
+        ]
+      },
+      "set_n_0_1": {
+        "ports": [
+          "set_n_0",
+          "D_trigger_0/set_n",
+          "D_trigger_1/rst_n",
+          "D_trigger_2/rst_n",
+          "D_trigger_3/rst_n"
+        ]
+      },
+      "D_trigger_3_q": {
+        "ports": [
+          "D_trigger_3/q",
+          "D_trigger_0/d",
+          "q3"
+        ]
+      },
+      "D_trigger_0_q": {
+        "ports": [
+          "D_trigger_0/q",
+          "D_trigger_1/d",
+          "q0"
+        ]
+      }
+    }
+  }
+}

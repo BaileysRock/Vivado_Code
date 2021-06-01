@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/document/Vivado/fulladder/fulladder.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/document/Vivado/fulladder/fulladder.srcs/sim_1/new/sim_adder.v,1604632219,verilog,,,,sim_adder,,,,,,,,
+D:/document/Vivado/fulladder/fulladder.srcs/sources_1/new/adder.v,1604630864,verilog,,D:/document/Vivado/fulladder/fulladder.srcs/sources_1/new/half_adder.v,,adder,,,,,,,,
+D:/document/Vivado/fulladder/fulladder.srcs/sources_1/new/half_adder.v,1604631082,verilog,,D:/document/Vivado/fulladder/fulladder.srcs/sim_1/new/sim_adder.v,,half_adder,,,,,,,,

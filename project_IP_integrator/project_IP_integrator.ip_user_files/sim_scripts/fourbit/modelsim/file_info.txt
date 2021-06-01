@@ -1,0 +1,7 @@
+D_trigger.v,verilog,xil_defaultlib,../../../bd/fourbit/ipshared/2836/sources_1/new/D_trigger.v,
+fourbit_D_trigger_0_0.v,verilog,xil_defaultlib,../../../bd/fourbit/ip/fourbit_D_trigger_0_0/sim/fourbit_D_trigger_0_0.v,
+fourbit_D_trigger_1_1.v,verilog,xil_defaultlib,../../../bd/fourbit/ip/fourbit_D_trigger_1_1/sim/fourbit_D_trigger_1_1.v,
+fourbit_D_trigger_2_0.v,verilog,xil_defaultlib,../../../bd/fourbit/ip/fourbit_D_trigger_2_0/sim/fourbit_D_trigger_2_0.v,
+fourbit_D_trigger_3_0.v,verilog,xil_defaultlib,../../../bd/fourbit/ip/fourbit_D_trigger_3_0/sim/fourbit_D_trigger_3_0.v,
+fourbit.v,verilog,xil_defaultlib,../../../bd/fourbit/sim/fourbit.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
